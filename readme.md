@@ -31,6 +31,12 @@ If the input line is incomplete or invalid, the program will answer: "Invalid ca
 
 - Node v6+
 
+## Setup
+
+```sh
+$ npm install
+```
+
 ## To run the application
 
 ```sh
